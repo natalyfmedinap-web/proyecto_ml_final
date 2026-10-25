@@ -68,4 +68,4 @@ Se eliminan las k = 1, 3 y 5 variables más informativas de la entrada del clasi
 
 ## Referencia del artículo
 
-El PDF está en `references/` y también en https://portal.amelica.org/ameli/journal/844/8445538016/8445538016.pdf (acceso abierto, CC BY-NC 4.0).
+El PDF está en `references/` y también en https://rte.espol.edu.ec/index.php/tecnologica/es/article/view/1312/861 (acceso abierto, CC BY-NC 4.0).
